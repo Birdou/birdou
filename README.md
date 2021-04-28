@@ -1,7 +1,7 @@
 ### Prazer, Birdou 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/birdou/)]
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/birdousena/)]
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/birdou/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/birdousena/)
 
 ![Birdou GitHub stats](https://github-readme-stats.vercel.app/api?username=birdou&show_icons=true&theme=dark)
 
