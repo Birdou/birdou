@@ -2,6 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/birdou/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/birdousena/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.instagram.com/birdousena/)
 
 - :mortar_board: Discente de Tecnologia da Informação - UFRN/IMD
 
