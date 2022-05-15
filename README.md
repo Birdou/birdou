@@ -19,4 +19,4 @@
 <br />
 
 ![Birdou GitHub stats](https://github-readme-stats.vercel.app/api?username=birdou&show_icons=true&theme=dark)
-![Birdou GitHub toplanguages](https://github-readme-stats.vercel.app/api?username=birdou&show_icons=true&theme=dark)
+![Birdou GitHub toplanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=birdou&show_icons=true&theme=dark)
