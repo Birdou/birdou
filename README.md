@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/birdou/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/lipesenam/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipe-sena-21179122a/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-BB001B?style=flat-square&logo=Gmail&logoColor=white)](mailto:felipesena.m@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:felipesena.m@gmail.com)
 
 - :mortar_board: Discente de Tecnologia da Informação - UFRN/IMD
 - :computer: Desenvolvedor Full Stack Django - ESUFRN
